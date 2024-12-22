@@ -1,7 +1,7 @@
 # DB 버전 : Oracle 21c xe
 
-## DB 구조
-  <h2>u_video</h2>
+## DB 구조<br>
+<h2>u_video</h2>
   <table border="1" style="border-collspace: collspace; font-size: 36px;">
     <tr>
       <td><b>필드</b></td>
