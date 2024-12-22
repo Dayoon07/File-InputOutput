@@ -1,5 +1,6 @@
-# DB 버전 : Oracle 21c xe <br> DB 구조
+# DB 버전 : Oracle 21c xe
 
+## DB 구조
   <h2>u_video</h2>
   <table border="1" style="border-collspace: collspace; font-size: 36px;">
     <tr>
