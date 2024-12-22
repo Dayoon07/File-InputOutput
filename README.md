@@ -1,4 +1,5 @@
-<div align="center">
+# DB 버전 : Oracle 21c xe <br> DB 구조
+
   <h2>u_video</h2>
   <table border="1" style="border-collspace: collspace; font-size: 36px;">
     <tr>
@@ -19,7 +20,7 @@
     <tr>
       <td>description</td>
       <td>varchar2(500 char)</td>
-      <td>없음</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>filepath</td>
@@ -37,10 +38,8 @@
       <td>default 0</td>
     </tr>
   </table>
-</div>
 
 
-<div align="center">
   <h2>u_img</h2>
   <table border="1" style="border-collspace: collspace; font-size: 36px;">
     <tr>
@@ -74,4 +73,3 @@
       <td>default 0</td>
     </tr>
   </table>
-</div>
